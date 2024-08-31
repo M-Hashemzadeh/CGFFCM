@@ -1,2 +1,2 @@
 To evaluate the proposed algorithm’s performance, we use the benchmark Berkeley dataset. This dataset is available on:
-https://github.com/BIDS/BSDS500.git.
+https://github.com/BIDS/BSDS500.git
