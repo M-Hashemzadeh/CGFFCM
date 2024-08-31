@@ -1,5 +1,5 @@
 function [Cluster_elem,M,EW_history,W,z]=CGFFCM(X,M,k,p_init,p_max,p_step,t_max,beta_memory,N,fuzzy_degree,d,beta_z,landa,v,G)
-%
+%%
 % This demo implements the CGFFCM algorithm as described in
 % A.Golzari oskouei, M.Hashemzadeh, B.Asheghi  and M.Balafar, "CGFFCM: Cluster-weight 
 % and Group-local Feature-weight learning in Fuzzy C-Means clustering algorithm for color
