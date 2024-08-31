@@ -10,7 +10,7 @@ Comments are written for all steps of the algorithm for better understanding the
 
 To evaluate the proposed method, the benchmark Berkeley dataset has been used. There are some images of this dataset in the uploaded file (Test_Dataset.rar). Whole dataset is available on: https://github.com/BIDS/BSDS500.git.
 
-## Diagram of the proposed method:
+## Diagram of the proposed method
 
 ![image](https://github.com/M-Hashemzadeh/CGFFCM/assets/59253242/5cc2be94-c75d-40f1-a38e-31200b43f7d0)
 
